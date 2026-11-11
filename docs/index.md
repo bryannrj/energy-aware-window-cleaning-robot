@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Energy-Aware Window Cleaning Robot"
-  text: "Intelligent Coverage Path Planning"
-  tagline: "Developing a low-cost suction-based robot for energy-efficient cleaning of vertical glass surfaces."
+  name: Energy-Aware Window Cleaning Robot
+  text: Intelligent Coverage Path Planning
+  tagline: Developing a low-cost suction-based robot for energy-efficient cleaning of vertical glass surfaces.
 
   actions:
     - theme: brand
@@ -32,13 +32,9 @@ features:
 
 ## Project Overview
 
-This Final Year Project investigates energy-aware
-coverage path planning for a low-cost suction-based
-window-cleaning robot.
+This Final Year Project investigates energy-aware coverage path planning for a low-cost suction-based window-cleaning robot.
 
-The research aims to minimise total energy consumption
-while maintaining complete cleaning coverage and
-reliable trajectory tracking.
+The research aims to minimise total energy consumption while maintaining complete cleaning coverage and reliable trajectory tracking.
 
 ## Research Objectives
 
@@ -50,6 +46,4 @@ reliable trajectory tracking.
 
 ## Project Development
 
-The project combines mechanical design, electrical
-engineering, path planning, simulation and experimental
-validation.
+The project combines mechanical design, electrical engineering, path planning, simulation and experimental validation.

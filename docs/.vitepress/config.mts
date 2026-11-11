@@ -36,8 +36,8 @@ export default defineConfig({
           text: 'Robot Design',
           items: [
             { text: 'Overview', link: '/design/' },
-            { text: 'Mechanical', link: '/design/mechanical' },
-            { text: 'Electrical', link: '/design/electrical' },
+            { text: 'Mechanical Design', link: '/design/mechanical' },
+            { text: 'Electrical Design', link: '/design/electrical' },
             { text: 'Suction System', link: '/design/suction' }
           ]
         }
